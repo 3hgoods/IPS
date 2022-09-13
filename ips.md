@@ -106,8 +106,11 @@ DB는 원데이터와 함께 원데이터가 아닌 데이터를 활용해 위�
 ```
 
 ```
+
 우리 공유기는 위치 정보를 나름 제공하고 있다.
 https://slic.tistory.com/1464
+
+와이파이 기반 위치 획득 체계 (Wi-Fi positioning system, WPS)
 
 
 ```
